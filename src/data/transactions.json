@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "09433b1f-b252-45c2-8851-53d07310939c",
+    "type": "income",
+    "category": "salary",
+    "amount": 2000,
+    "date": "2025-12-06T14:51:26.741Z",
+    "note": "December salary"
+  },
+  {
+    "id": "68e01722-ed8e-4ef5-a8d6-4df51f9a7e19",
+    "type": "income",
+    "category": "salary",
+    "amount": 80000,
+    "date": "2025-12-06T14:59:16.627Z",
+    "note": "January salary"
+  },
+  {
+    "id": "312f140f-19dc-4aa5-8579-24d907b1bd84",
+    "type": "income",
+    "category": "salary",
+    "amount": 8000,
+    "date": "2025-12-06T14:59:29.349Z",
+    "note": "January tip1"
+  },
+  {
+    "id": "a98d19ea-9b1e-4ef4-8fb8-21a9b154ca6d",
+    "type": "income",
+    "category": "salary",
+    "amount": 9000,
+    "date": "2025-12-06T14:59:40.454Z",
+    "note": "January tip2"
+  },
+  {
+    "id": "b277f1c4-b8f2-4110-a338-63427142c8cb",
+    "type": "income",
+    "category": "dad's gift",
+    "amount": 9000,
+    "date": "2025-12-06T15:12:39.321Z",
+    "note": "christmas"
+  }
+]
