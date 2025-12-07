@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "1765100262081761",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "password": "2bb80d537b1da3e38bd30361aa855686bde0eacd7162fef6a25fe97bf527a25b",
+    "createdAt": "2025-12-07T09:37:42.081Z"
+  },
+  {
+    "id": "1765100274102304",
+    "name": "Kevin",
+    "email": "thomas@example.com",
+    "password": "2bb80d537b1da3e38bd30361aa855686bde0eacd7162fef6a25fe97bf527a25b",
+    "createdAt": "2025-12-07T09:37:54.102Z"
+  },
+  {
+    "id": "1765100517763705",
+    "name": "Kevin1",
+    "email": "thomas2@example.com",
+    "password": "2bb80d537b1da3e38bd30361aa855686bde0eacd7162fef6a25fe97bf527a25b",
+    "createdAt": "2025-12-07T09:41:57.763Z"
+  }
+]
