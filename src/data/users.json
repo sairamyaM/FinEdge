@@ -19,5 +19,12 @@
     "email": "thomas2@example.com",
     "password": "2bb80d537b1da3e38bd30361aa855686bde0eacd7162fef6a25fe97bf527a25b",
     "createdAt": "2025-12-07T09:41:57.763Z"
+  },
+  {
+    "id": "1765125508274616",
+    "name": "Ramya",
+    "email": "ramya@gmail.com",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "createdAt": "2025-12-07T16:38:28.274Z"
   }
 ]

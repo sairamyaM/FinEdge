@@ -7,16 +7,17 @@ const {
   updateTransaction,
   deleteTransaction
 } = require("../controllers/transactionController");
+const auth = require("../middleware/auth");
 const { validateUpdateTransaction, validateCreateTransaction } = require("../middleware/validator");
 
-router.post("/", validateCreateTransaction, createTransaction);
+router.post("/", auth, validateCreateTransaction, createTransaction);
 
-router.get("/", getAllTransactions);
+router.get("/", auth, getAllTransactions);
 
-router.get("/:id", getTransactionById);
+router.get("/:id", auth, getTransactionById);
 
-router.patch("/:id", validateUpdateTransaction, updateTransaction);
+router.patch("/:id", auth, validateUpdateTransaction, updateTransaction);
 
-router.delete("/:id", deleteTransaction);
+router.delete("/:id", auth, deleteTransaction);
 
 module.exports = router;

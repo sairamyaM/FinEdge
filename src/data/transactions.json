@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "ff240b2b-e0e8-4753-921c-32932f3f9e0c",
+    "userId": "1765125508274616",
+    "type": "income",
+    "amount": 2500,
+    "category": "groceries",
+    "note": "daily goods",
+    "date": "2025-12-07T16:40:37.876Z"
+  },
+  {
+    "id": "7a491d86-151d-4ba2-885b-33f8031e5f4b",
+    "userId": "1765125508274616",
+    "type": "expense",
+    "amount": 900,
+    "category": "groceries",
+    "note": "daily goods",
+    "date": "2025-12-08T16:31:53.628Z"
+  },
+  {
+    "id": "21ede9b7-0aae-4e9a-af8d-0e601c0945ec",
+    "userId": "1765125508274616",
+    "type": "income",
+    "amount": 100000,
+    "category": "Salary",
+    "note": "daily goods",
+    "date": "2025-12-08T16:32:20.152Z"
+  },
+  {
+    "id": "6f8efcc5-fedb-43db-9f71-22c0de76084b",
+    "userId": "1765125508274616",
+    "type": "expense",
+    "amount": 10,
+    "category": "expense1",
+    "note": "daily goods",
+    "date": "2025-12-08T16:32:40.242Z"
+  },
+  {
+    "id": "941dbad2-c422-4fb2-9336-9a0e7a8d55b9",
+    "userId": "1765125508274616",
+    "type": "expense",
+    "amount": 10,
+    "category": "expense2",
+    "note": "daily goods",
+    "date": "2025-12-08T16:32:46.486Z"
+  },
+  {
+    "id": "1b5dace2-055d-4e25-8e1a-51f2130f6976",
+    "userId": "1765125508274616",
+    "type": "expense",
+    "amount": 200,
+    "category": "expense3",
+    "note": "daily goods",
+    "date": "2025-12-08T16:32:56.116Z"
+  },
+  {
+    "id": "53b15fa2-2c24-459f-b9b3-cc4cf0201cd2",
+    "userId": "1765125508274616",
+    "type": "expense",
+    "amount": 5000,
+    "category": "expense4",
+    "note": "daily goods",
+    "date": "2025-12-08T16:33:05.256Z"
+  },
+  {
+    "id": "20a64d12-d5ef-4777-aca3-9fc6e747f7cf",
+    "userId": "1765125508274616",
+    "type": "expense",
+    "amount": 900,
+    "category": "expense5",
+    "note": "daily goods",
+    "date": "2025-12-08T16:33:18.050Z"
+  }
+]
